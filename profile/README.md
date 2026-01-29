@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../domani_sistemas.png" alt="Domani Sistemas Logo" width="280">
+  <img src="domani_sistemas.png" alt="Domani Sistemas Logo" width="280">
 </p>
 
 > **Construindo o amanhã da gestão fiscal e contábil hoje.**
